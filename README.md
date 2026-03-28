@@ -1,4 +1,4 @@
-# 🐱 Desktop Cat
+# Desktop Cat
 
 A tiny pixel-art cat that lives in the corner of your Windows desktop,
 encourages you while you work, and never asks for food.
@@ -10,7 +10,7 @@ encourages you while you work, and never asks for food.
 ### 1 — Prerequisites
 - Python 3.11 or later  
   Download: https://www.python.org/downloads/  
-  ✅ Tick **"Add Python to PATH"** during install.
+  Tick **"Add Python to PATH"** during install.
 
 ### 2 — Install dependencies
 Open a terminal in this folder and run:
@@ -115,4 +115,4 @@ virtual_cat/
 
 ---
 
-Made with 🐾 and Python.
+Made with Python.
